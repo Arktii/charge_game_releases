@@ -3,7 +3,7 @@ A repository for the releases of the private charge game repository.
 
 The program has a client and server part, both of which can be downloaded from the releases section.
 
-The server can be run locally or deployed to the cloud (for example Amazone EC2).
+The server can be run locally or deployed to the cloud (for example Amazon EC2).
 # Deploying to EC2
 ## Setup
 1. Generate Key-Pair (to make it possible to ssh to EC2 Instance)
